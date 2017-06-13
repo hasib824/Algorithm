@@ -9,12 +9,13 @@ public class Kmp
         String text ;
         Scanner sc = new Scanner(System.in);
         text = sc.nextLine();
-        System.out.println("Hello : "+text.length());
+        //System.out.println("Hello : "+text.length());
         System.out.println("Please enter the pattern to match");
 		String match = sc.nextLine();
+		int l_match=match.length();  int l_text= text.length();
 	    KmpMatcher kmp= new KmpMatcher();
-        kmp.suffixArray(match);		
-        kmp.kmp(text,match);		
+        kmp.suffixArray(match,l_match);		
+        kmp.kmp(text,match,l_text,l_match);		
    }
 
 }
@@ -22,8 +23,8 @@ public class Kmp
 class KmpMatcher{
     
     int array[];	
-    void suffixArray(String match)
-	 {   int l=match.length();
+    void suffixArray(String match,int l)
+	 {   
 	     array = new int[l];
          int i=0;int j=1; array[0] = 0;
 		 char matchar[]= match.toCharArray();
@@ -39,9 +40,8 @@ class KmpMatcher{
 	 
 	 }
 	 
-	 void kmp(String tex,String ma)
+	 void kmp(String tex,String ma,int l_text,int l_match)
 	 {  
-	    int l_text= tex.length(); int l_match= ma.length();
 	    char text []= tex.toCharArray();
 		char match []= ma.toCharArray();		
 		int i=0 ; int j=0; int cnt=0;
@@ -61,7 +61,7 @@ class KmpMatcher{
 }
 
 /*
-acacabacacabacacacafgsadfacacabacabacacacdfff
+acacabacacabacacacfgsadfacacabacacabacacacfff
 acacabacacabacacac
 
 abcdefxcdbabcdnpxcdbxkabyk
