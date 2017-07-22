@@ -53,7 +53,7 @@ class KmpMatcher{
 	         if(i==0) j++;            //  if pattern's index is zero then check next character of text   
              else i=array[--i];		 // if patterns index non zero then go to last matched pattern index 	 
 		   }
-          if(i==l_match) { cnt++; i=0;}	// if end+1 of 	pattern then match found and try for 2nd occurence   
+          if(i==l_match) { cnt++; i=0;j--;}	// if end+1 of 	pattern then match found and try for 2nd occurence   
 		}		
 		System.out.println("Occurences : " + cnt + " times ");
 	 }
@@ -66,4 +66,6 @@ acacabacacabacacac
 
 abcdefxcdbabcdnpxcdbxkabyk
 
+xydabdabdmn
+dabd
 */
