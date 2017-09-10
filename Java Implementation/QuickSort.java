@@ -50,7 +50,8 @@ class MyQuickSort
    }
    int RandomizedPartition(int start,int end)
    {
-		int pivot = new Random().nextInt(end-start+1)+start; // Getting Random Pivot
+		//int pivot = new Random().nextInt(end-start)+start; // Getting Random Pivot
+		int pivot = array[end];
 		int pIndex = start;	
 		for(int i=start;i<end;i++)
 		{
@@ -77,6 +78,9 @@ class MyQuickSort
 Test Case 
 13
 4 8 9 5 12 10 17 6 3 2 1 14 7
+
+12
+7 5 11 9 8 12 17 14 13 25 6 4
 
 
 */
