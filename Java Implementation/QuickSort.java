@@ -43,7 +43,7 @@ class MyQuickSort
    {
 	   if(start<end)
 	   {
-	     int pIndex = partition(start,end);
+	     int pIndex = RandomizedPartition(start,end);
 		 doSort(start,pIndex-1);
          doSort(pIndex+1,end);		 
 	   }      
