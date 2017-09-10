@@ -13,7 +13,6 @@ public class QuickSort
 		{
 			array[i]=sc.nextInt();
 		}
-		
 		System.out.println("Unsorted datas are : ");
 		for(int i=0;i<n;i++)
 		{
@@ -27,7 +26,6 @@ public class QuickSort
 			System.out.print(array[i]+" , ");
 		}
 		
-		
 	}
 	
 }
@@ -40,8 +38,7 @@ class MyQuickSort
    {
        this.array = array; this.l = l;
         doSort(0,l-1);  	   
-   }
-   
+   }  
    void doSort(int start,int end)
    {
 	   if(start<end)
@@ -49,14 +46,12 @@ class MyQuickSort
 	     int pIndex = partition(start,end);
 		 doSort(start,pIndex-1);
          doSort(pIndex+1,end);		 
-	   }
-      
+	   }      
    }
    int RandomizedPartition(int start,int end)
    {
 		int pivot = new Random().nextInt(end-start+1)+start; // Getting Random Pivot
-		int pIndex = start;
-		
+		int pIndex = start;	
 		for(int i=start;i<end;i++)
 		{
 		  if(array[i]<=pivot)
