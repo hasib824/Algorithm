@@ -4,6 +4,9 @@
 **Asymptotic and Complexity Analysis**:
 - [Videos of ravindra babu ravula](https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
 - [videos My Codeschool](http://mycodeschool.com/videos)
+- **Tools**
+    - Equation [Simplifier](https://www.symbolab.com/solver/simplify-calculator)
+    - Summation equation [builder](http://www.wolframalpha.com/widget/widgetPopup.jsp?p=v&id=dfaf1b7d15e572ae5a1b2fa172ce8657&title=Math+Help+Boards%3A+Sum+Calculator&theme=blue)
 - **Practices**
     - [Rabindrababu Ravula](https://www.youtube.com/watch?v=FEnwM-iDb2g&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0&index=2) (have the problems on diary)
     -  [interviewbit MCQ](https://www.interviewbit.com/courses/programming/topics/time-complexity/)
