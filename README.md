@@ -1,7 +1,7 @@
 <h1>Algorithm resources I have used</h1>
 
 
-<h4>**Asymptotic and Complexity Analysis**:</h4>
+**Asymptotic and Complexity Analysis**:
 - [Videos of ravindra babu ravula](https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
 - [videos My Codeschool](http://mycodeschool.com/videos)
 - **Tools**
@@ -15,22 +15,22 @@
         - [questions](https://github.com/hasib824/Algorithm/blob/master/Gate%20Overflow%20algo%20complexity.docx) and [answers](https://github.com/hasib824/Algorithm/blob/master/Gate%20overflow%20algo%20complexity%20%20Answer.docx) on my collection
 
 
-<h4>**MergeSort :**</h4>
+**MergeSort :**
 -   [MyCodeSchool Video](https://www.youtube.com/watch?v=TzeBrDU-JaY)
 -   [Coding help from vogella link](https://www.vogella.com/tutorials/JavaAlgorithmsMergesort/article.html)
 -  	[Vogela code on my github github link](https://github.com/hasib824/DataStructure/blob/master/Java_Implementations/MergeSortVogella.java)
 
-<h4>**HeapSort :**</h4>
+**HeapSort :**
  - RabindraBabu Ravula
  - Shukarna Sir : [code on github](https://github.com/hasib824/Algorithm/blob/master/Java%20Implementation/HeapSort.java)
 
 
-<h4>**QuickSort :**</h4>
+ **QuickSort :**
  - [MyCodeSchool](http://mycodeschool.com/videos)
 
-<h4>**Kmp :**</h4>
+**Kmp :**
 - [Tushar Roy](https://www.youtube.com/watch?v=CpZh4eF8QBw&list=PLrmLmBdmIlpvxhscYQdvfFNWU_pdkG5de)
 
-<h4>**Sliding window maximum(Maximum of each sequence in a list) :**</h4>
+**Sliding window maximum(Maximum of each sequence in a list) :**
 -   [tutorial link](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
 - 	[Solved problem link](https://github.com/hasib824/ProblemSolving/blob/master/LightOj/1087_ghajini.cpp)
