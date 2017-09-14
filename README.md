@@ -17,8 +17,8 @@
 
 **MergeSort :**
 -   [MyCodeSchool Video](https://www.youtube.com/watch?v=TzeBrDU-JaY)
--   [Coding help from vogella link](https://www.vogella.com/tutorials/JavaAlgorithmsMergesort/article.html)
--  	[Vogela code on my github github link](https://github.com/hasib824/DataStructure/blob/master/Java_Implementations/MergeSortVogella.java)
+-   [Coding help from vogella link](http://www.vogella.com/tutorials/JavaAlgorithmsMergesort/article.html)
+-  	[Vogela code on my github github link](https://github.com/hasib824/Algorithm/blob/master/Java%20Implementation/MergeSortVogella.java)
 
 **HeapSort :**
  - RabindraBabu Ravula
@@ -32,5 +32,5 @@
 - [Tushar Roy](https://www.youtube.com/watch?v=CpZh4eF8QBw&list=PLrmLmBdmIlpvxhscYQdvfFNWU_pdkG5de)
 
 **Sliding window maximum(Maximum of each sequence in a list) :**
--   [tutorial link](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
+-   geeks for geeks [tutorial link](http://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
 - 	[Solved problem link](https://github.com/hasib824/ProblemSolving/blob/master/LightOj/1087_ghajini.cpp)
