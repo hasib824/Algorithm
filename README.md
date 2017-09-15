@@ -1,7 +1,7 @@
 <h1>Algorithm resources I have used</h1>
 
 
-<u>**Asymptotic and Complexity Analysis</u> :**
+**Asymptotic and Complexity Analysis :**
 - [Videos of ravindra babu ravula](https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
 - [videos My Codeschool](http://mycodeschool.com/videos)
 - **Tools**
@@ -17,25 +17,25 @@
     - Rabindrababu Ravula [video](https://www.youtube.com/watch?v=HEjmH9wKiMo&t=929s)
     -  My code school [video](http://mycodeschool.com/videos)
 
-**<u>MergeSort</u> :**
+**MergeSort :**
 -   [MyCodeSchool Video](https://www.youtube.com/watch?v=TzeBrDU-JaY)
 -   [Coding help from vogella link](http://www.vogella.com/tutorials/JavaAlgorithmsMergesort/article.html)
 -  	[Vogela code on my github github link](https://github.com/hasib824/Algorithm/blob/master/Java%20Implementation/MergeSortVogella.java)
 
-**<u>HeapSort</u> :**
+**HeapSort :**
  - RabindraBabu Ravula [video]()
  - Shukarna Sir : [code on github](https://github.com/hasib824/Algorithm/blob/master/Java%20Implementation/HeapSort.java)
 
 
- **<u>QuickSort</u> :**
+ **QuickSort :**
  - [MyCodeSchool](http://mycodeschool.com/videos)
 
-**<u>Insertion Sort</u> :** [Rabindrababu Ravula](https://www.youtube.com/watch?v=BO145HIUHRg&t=604s)
+**Insertion Sort :** [Rabindrababu Ravula](https://www.youtube.com/watch?v=BO145HIUHRg&t=604s)
 
-**<u>SelectionSort</u> :** [MyCodeSchool](http://mycodeschool.com/videos)
+**SelectionSort :** [MyCodeSchool](http://mycodeschool.com/videos)
 
-**<u>Kmp</u>  :**[Tushar Roy](https://www.youtube.com/watch?v=CpZh4eF8QBw&list=PLrmLmBdmIlpvxhscYQdvfFNWU_pdkG5de)
+**Kmp  :**[Tushar Roy](https://www.youtube.com/watch?v=CpZh4eF8QBw&list=PLrmLmBdmIlpvxhscYQdvfFNWU_pdkG5de)
 
-**<u>Sliding window maximum(Maximum of each sequence in a list)</u> :**
+**Sliding window maximum(Maximum of each sequence in a list) :**
 -   geeks for geeks [tutorial link](http://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
 - 	[Solved problem link](https://github.com/hasib824/ProblemSolving/blob/master/LightOj/1087_ghajini.cpp)
