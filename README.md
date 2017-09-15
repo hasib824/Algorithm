@@ -13,10 +13,9 @@
     - geeksforgeeks mcq [link 1](http://www.geeksforgeeks.org/analysis-algorithms-set-5-practice-problems/?fref=gc&dti=673800466026116), [link 2](http://www.geeksforgeeks.org/algorithms-gq/analysis-of-algorithms-gq/?fref=gc&dti=673800466026116)
     - [Gate Overflow questions : ](http://gateoverflow.in/tag/time-complexity)            
         - [questions](https://github.com/hasib824/Algorithm/blob/master/Gate%20Overflow%20algo%20complexity.docx) and [answers](https://github.com/hasib824/Algorithm/blob/master/Gate%20overflow%20algo%20complexity%20%20Answer.docx) on my collection
--       **Space Complexity analysis :**
-        - Rabindrababu Ravula [video](https://www.youtube.com/watch?v=HEjmH9wKiMo&t=929s)
-        -  My code school [video](http://mycodeschool.com/videos)
-
+- **Space Complexity analysis :**
+    - Rabindrababu Ravula [video](https://www.youtube.com/watch?v=HEjmH9wKiMo&t=929s)
+    -  My code school [video](http://mycodeschool.com/videos)
 
 **<u>MergeSort</u> :**
 -   [MyCodeSchool Video](https://www.youtube.com/watch?v=TzeBrDU-JaY)
@@ -24,7 +23,7 @@
 -  	[Vogela code on my github github link](https://github.com/hasib824/Algorithm/blob/master/Java%20Implementation/MergeSortVogella.java)
 
 **<u>HeapSort</u> :**
- - RabindraBabu Ravula [video](https://www.youtube.com/results?search_query=rabindrababu+ravula+heap+sort)
+ - RabindraBabu Ravula [video]()
  - Shukarna Sir : [code on github](https://github.com/hasib824/Algorithm/blob/master/Java%20Implementation/HeapSort.java)
 
 
